@@ -1,0 +1,31 @@
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsF.90B8DF9B.Up2Date
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form3.resources
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form4.resources
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form5.resources
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsF.90B8DF9B.Up2Date
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\asus\OneDrive\Рабочий стол\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
