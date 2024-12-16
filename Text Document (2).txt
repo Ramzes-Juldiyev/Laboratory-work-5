@@ -1,0 +1,16 @@
+create database airaport;
+use airaport;
+create table Tariff (
+id int  auto_increment,
+tariff varchar(50),
+cost decimal(50,2),
+primary key(id)
+);
+create table Passenger (
+id int  auto_increment,
+name varchar(50),
+surname varchar(50),
+passportnumber varchar(50),
+tariff decimal(50,2),
+primary key(id)
+);
