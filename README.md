@@ -15,3 +15,7 @@
 ![image](https://github.com/user-attachments/assets/ca913d67-36ce-45b6-b514-23f6f4582051)
 
 Рисунок 3 – Диаграмма спроектированного класса
+
+![image](https://github.com/user-attachments/assets/57fee446-68b7-4e50-b8f1-ec8d9572037f)
+
+Рисунок 4 – Код базы данных MySQL
